@@ -1,0 +1,6 @@
+owner=461929969988272130
+prefix=2play
+game=Break Victor Wtching| 2play
+stayinchannel=true
+songinstatus=false
+token=NTQyMzcyMzQ4MTI1MjQ5NTM3.DztDbg.ca88RXMM7VhShO1e3PxQwMQcjLc
